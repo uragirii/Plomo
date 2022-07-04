@@ -1,0 +1,15 @@
+body {
+  background-color: #726da8;
+  font-family: "Open Sans", sans-serif;
+  padding: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex: 1;
+}
+
+img {
+  border-radius: 8px;
+  max-width: 90vw;
+}
